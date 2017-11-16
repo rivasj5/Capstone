@@ -1,1 +1,1 @@
-# Capstone
+# Capstone - Forecasting the Stock Market
